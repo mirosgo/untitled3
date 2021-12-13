@@ -4,7 +4,8 @@ public class House {
         task1();
         task2();
     }
-
+//kfmdsfsf
+    //sdfsds
     private static void task1() {
         Map<String, Integer> hm = new HashMap<>();
         String[] words = {
